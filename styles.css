@@ -16,7 +16,7 @@ header {
     font-family: "Ojuju", sans-serif;
     font-size: 10px;
     font-family: "Gayathri", sans-serif;
-    font-weight: 800;
+    font-weight: 900;
     font-style: normal;   
     
 }
@@ -33,12 +33,11 @@ h1 {
 article {
     width: 350px;
     margin: auto;
-    margin-top: 20px;
-    margin-bottom:20px;
+    margin-top: 40px;
 }
 .article{
     background-color: white;
-    margin-bottom:50px;
+    margin-bottom:40px;
 }
 
 .article_header {
